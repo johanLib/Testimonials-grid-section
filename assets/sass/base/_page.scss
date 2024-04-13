@@ -1,0 +1,16 @@
+body {
+    font-family: $theme-text-font;
+    font-size: 0.813rem;
+
+    background-color: $theme-background-color;
+    color: $theme-white-color;
+
+    @include flex;
+    min-height: 100vh;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: $theme-violet-color dotted 0.188rem;
+  outline-offset: 0.15rem;
+}
