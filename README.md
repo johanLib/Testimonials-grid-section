@@ -39,11 +39,11 @@
 
 </div>
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Testimonials-grid-section-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Testimonials grid section | Frontend Mentor](https://www.frontendmentor.io/solutions/Testimonials-grid-section-solution-5JPlrVzzgi)
+- Solution URL: [Testimonials grid section | Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-sass-seo-accessibility-vjopwnvjey)
 - Live Site URL: [https://johanlib.github.io/Testimonials-grid-section/](https://johanlib.github.io/Testimonials-grid-section/)
 
 <br>
